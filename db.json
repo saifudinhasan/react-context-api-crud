@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "text": "Tetap Semangat !!",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "text": "Tetap Berkarya",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "Kerja",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "text": "Makan Makanan Sehat dan Bergizi",
+      "completed": false,
+      "id": 11
+    }
+  ]
+}
